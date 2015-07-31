@@ -30,7 +30,7 @@ public class ListOff implements Runnable {
 
 	public void run() {
 		while (countCown-- > 0) {
-			System.out.print(status());
+			System.out.println(status());
 			// 2. Thread.yield()的调用是对线程调度器的一种建议,它在声明："我已经执行完生命周期中最重要的部分了，
 			// 此刻正是切换给其他任务执行一段时间的大好时机。"
 			Thread.yield();
