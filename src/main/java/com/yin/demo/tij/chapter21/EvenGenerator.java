@@ -1,4 +1,4 @@
-package com.yin.demo.tij.chapter05;
+package com.yin.demo.tij.chapter21;
 
 public class EvenGenerator extends IntGenerator{
 	private int currentEvenValue = 0;

@@ -1,4 +1,4 @@
-package com.yin.demo.tij.chapter05;
+package com.yin.demo.tij.chapter21;
 
 /**
  * 为了将EvenChecker与我们要试验的各种类型的生成器解耦,我们将创建一个名为IntGenerator的抽象类,
