@@ -1,5 +1,11 @@
 package com.yin.demo.tij.chapter21_1;
-
+/**
+ * yield()方法使用示例
+ * 
+ * @author yixunzhi
+ * @createdTime 2015年8月21日下午5:58:49
+ *
+ */
 public class demo01 {
 	public static void main(String[] args) {
 		Thread t1 = new Thread(new Producer());
