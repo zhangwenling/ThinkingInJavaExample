@@ -1,4 +1,4 @@
-package com.yin.demo.tij;
+package com.yin.demo.tij.chapter21;
 
 import java.util.Random;
 import java.util.concurrent.ExecutorService;

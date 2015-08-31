@@ -1,4 +1,4 @@
-package com.yin.demo.tij;
+package com.yin.demo.tij.chapter21;
 
 public class DualObject{
 	public static void main(String[] args) {
